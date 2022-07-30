@@ -26,7 +26,7 @@
   </el-form-item>
   <div class="logins">
     <el-form-item>
-    <el-button type="primary" class="login">提交</el-button>
+    <el-button type="primary" class="login">登录</el-button>
   </el-form-item>
   </div>
 </el-form>
